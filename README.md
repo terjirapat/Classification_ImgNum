@@ -15,4 +15,5 @@ model score from pycaret CV
 best model by accuracy is logistic regression
 
 confusion matrix
+
 ![image](https://github.com/terjirapat/Classification_ImgNum/assets/77285026/4c0e687f-8f09-4284-a1f7-daf962edd654)
